@@ -17,5 +17,5 @@ After sign in SDK manager, connect Xavier to host PC using 5 pin cable.
 
 Then SDK manager will automatically detect your Xavier.
 
-<img src = https://user-images.githubusercontent.com/17681187/215976716-4699d81c-f52d-46ff-9afb-acbc3c27dc90.png width = "100" height = "100">
+<img src = https://user-images.githubusercontent.com/17681187/215976716-4699d81c-f52d-46ff-9afb-acbc3c27dc90.png width = "700" height = "400">
 
