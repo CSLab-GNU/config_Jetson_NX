@@ -15,6 +15,7 @@ By executing this process, we can boot Jetson NX to Ubuntu 20.04
 
 After sign in SDK manager, connect Xavier to host PC using 5 pin cable.
 
+###Step 1
 Then SDK manager will automatically detect your Xavier.
 
 <img src = "https://user-images.githubusercontent.com/17681187/215978979-bc5e0c19-fe1e-4c2e-95ee-7a01fc32ad4a.png" width = "700" height = "400">
