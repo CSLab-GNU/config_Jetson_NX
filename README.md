@@ -20,5 +20,4 @@ Then SDK manager will automatically detect your Xavier.
 <img src = "https://user-images.githubusercontent.com/17681187/215978979-bc5e0c19-fe1e-4c2e-95ee-7a01fc32ad4a.png" width = "700" height = "400">
 And pick the JetPack version. We picked JetPack5.1.
 
-
-<img src = "https://user-images.githubusercontent.com/17681187/215985377-88b17e1c-0733-44cd-b2b5-45a64d401593.jpg" width = "700" height = "400">
+<img src = "https://user-images.githubusercontent.com/17681187/216929955-a5bb22a0-fe1f-48f8-ba37-addbb6f5b990.png" width = "700" height = "400">
