@@ -22,4 +22,5 @@ And pick the JetPack version. We picked JetPack5.1.
 
 Click accept button and continue installation.
 <img src = "https://user-images.githubusercontent.com/17681187/216929955-a5bb22a0-fe1f-48f8-ba37-addbb6f5b990.png" width = "700" height = "400">
+
 Then you can install necessary packages on host PC.
