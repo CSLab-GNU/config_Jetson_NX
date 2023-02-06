@@ -14,6 +14,7 @@ When you install and run SDK manager, you have to sign in Nvidia account.
 By executing this process, we can boot Jetson NX to Ubuntu 20.04
 
 After sign in SDK manager, connect Xavier to host PC using 5 pin cable.
+<img src = "https://user-images.githubusercontent.com/17681187/216936127-747e84aa-37ac-4db7-ab99-19d6b632491b.jpg" width = "200" height = "300">
 
 Then SDK manager will automatically detect your Xavier.
 
@@ -26,3 +27,4 @@ Click accept button and continue installation.
 Then you can install necessary packages on host PC.
 
 <img src = "https://user-images.githubusercontent.com/17681187/216935503-9fc8cc92-3b7f-41fb-9de8-e6671971ba34.png" width = "400" height = "400">
+
