@@ -24,4 +24,5 @@ Click accept button and continue installation.
 <img src = "https://user-images.githubusercontent.com/17681187/216929955-a5bb22a0-fe1f-48f8-ba37-addbb6f5b990.png" width = "700" height = "400">
 
 Then you can install necessary packages on host PC.
-<img src = "https://user-images.githubusercontent.com/17681187/216932628-eac28636-5d69-4c21-8889-cfd66f3b3c10.png" width = "500" height = "400">
+
+<img src = "https://user-images.githubusercontent.com/17681187/216932628-eac28636-5d69-4c21-8889-cfd66f3b3c10.png" width = "400" height = "400">
