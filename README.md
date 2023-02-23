@@ -27,7 +27,8 @@ Click accept button and continue installation.
 
 Then you can install necessary packages on host PC.
 
-Now, you have to flash your Xavier. 
+Now, you have to flash your Xavier. When you execute this step, you have to place a jumper across the Force Recovery Mode pins.
+These are pins 9 [GND] and 10 [FC REC] of the Button Header [J14].
 
 <img src = "https://user-images.githubusercontent.com/17681187/216935503-9fc8cc92-3b7f-41fb-9de8-e6671971ba34.png" width = "400" height = "400">
 
