@@ -5,7 +5,7 @@ This configuration do not require SD card.
 
 If you have a SD card that has 16GB minimum, see Configure F1TENTH System at https://f1tenth.org/build.html.
 
-## requirements
+## Required Equipments
 -Jetson Xarvier NX  
 
 -Ubuntu 20.04 host PC  
