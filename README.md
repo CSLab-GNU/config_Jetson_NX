@@ -12,7 +12,9 @@ If you have a SD card that has 16GB minimum, see Configure F1TENTH System at htt
 
 -jumper(for convert to recovery mode)  
 
--5 pin cable
+-5 pin cable  
+
+-HDMI monitor/ keyboard/ mouse
 
 ## install SDK manager
 You can install SDK manager of recent version from https://developer.nvidia.com/drive/sdk-manager.
@@ -49,3 +51,7 @@ Select EMMC as storage device.
 By this step, ubuntu 20.04 will be installed at SD card built in your Xavier.
 
 <img src = "https://user-images.githubusercontent.com/17681187/220866315-a94579b2-aea8-42db-ba5e-2c91e3b20c80.png" width = "300" height = "400">
+
+If your 
+## Jetpack
+<img src = "https://user-images.githubusercontent.com/17681187/220870706-96d9f9cb-3b0a-4c6a-af20-284503053f21.png" width = "700" height = "400">
