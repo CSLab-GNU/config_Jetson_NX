@@ -8,13 +8,23 @@ If you have a SD card that has 16GB minimum, see Configure F1TENTH System at htt
 ## requirements
 -Jetson Xarvier NX  
 
--ubuntu 20.04 host PC  
+-Ubuntu 20.04 host PC  
 
--jumper(for convert to recovery mode)  
+-Jumper(for convert to recovery mode)  
 
 -5 pin cable  
 
--HDMI monitor/ keyboard/ mouse
+-HDMI cable
+
+-External monitor/display  
+
+-Keyboard  
+
+-Mouse  
+
+-Wireless router  
+
+-Ethernet cable (needed if Pit/Host laptop does not have WiFi capability)
 
 ## install SDK manager
 You can install SDK manager of recent version from https://developer.nvidia.com/drive/sdk-manager.
