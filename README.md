@@ -32,8 +32,7 @@ When you execute this step, you have to place a jumper across the Force Recovery
 These are pins 9 [GND] and 10 [FC REC] of the Button Header [J14].
 
 <img src = "https://user-images.githubusercontent.com/17681187/220860509-854e8040-8366-4940-9f70-b04d668aa3c2.png" width = "300" height = "200">      <img src = "https://user-images.githubusercontent.com/17681187/220863260-bf85ad86-0960-46f2-a2bb-86a01335dc04.jpg" width = "300" height = "200">
-
-
+Configure storage device
 <img src = "https://user-images.githubusercontent.com/17681187/216935503-9fc8cc92-3b7f-41fb-9de8-e6671971ba34.png" width = "400" height = "400">
 
 By this step, ubuntu 20.04 install 
