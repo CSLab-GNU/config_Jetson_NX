@@ -1,12 +1,15 @@
-# config_Jetson_NX
+# config_Jetson_NX (without SD Card image)
 This is the repository for configuring the Jetson Xavier NX by SDK manager.
 
 This configuration do not require SD card.
 
 If you have a SD card that has 16GB minimum, see Configure F1TENTH System at https://f1tenth.org/build.html.
 
-# requirements
-
+## requirements
+Jetson Xarvier NX
+ubuntu 20.04 host PC
+jumper(for convert to recovery mode)
+5 pin cable
 
 ## install SDK manager
 You can install SDK manager of recent version from https://developer.nvidia.com/drive/sdk-manager.
