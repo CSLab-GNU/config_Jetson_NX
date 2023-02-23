@@ -27,5 +27,7 @@ Click accept button and continue installation.
 
 Then you can install necessary packages on host PC.
 
+Now, you have to flash your Xavier. 
+
 <img src = "https://user-images.githubusercontent.com/17681187/216935503-9fc8cc92-3b7f-41fb-9de8-e6671971ba34.png" width = "400" height = "400">
 
