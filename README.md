@@ -5,6 +5,9 @@ This configuration do not require SD card.
 
 If you have a SD card that has 16GB minimum, see Configure F1TENTH System at https://f1tenth.org/build.html.
 
+# requirements
+
+
 ## install SDK manager
 You can install SDK manager of recent version from https://developer.nvidia.com/drive/sdk-manager.
 
