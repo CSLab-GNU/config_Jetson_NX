@@ -6,13 +6,13 @@ This configuration do not require SD card.
 If you have a SD card that has 16GB minimum, see Configure F1TENTH System at https://f1tenth.org/build.html.
 
 ## requirements
-/Jetson Xarvier NX  
+-Jetson Xarvier NX  
 
-/ubuntu 20.04 host PC  
+-ubuntu 20.04 host PC  
 
-/jumper(for convert to recovery mode)  
+-jumper(for convert to recovery mode)  
 
-/5 pin cable
+-5 pin cable
 
 ## install SDK manager
 You can install SDK manager of recent version from https://developer.nvidia.com/drive/sdk-manager.
