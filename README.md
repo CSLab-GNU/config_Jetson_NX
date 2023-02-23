@@ -7,8 +7,11 @@ If you have a SD card that has 16GB minimum, see Configure F1TENTH System at htt
 
 ## requirements
 Jetson Xarvier NX  
+
 ubuntu 20.04 host PC  
+
 jumper(for convert to recovery mode)  
+
 5 pin cable
 
 ## install SDK manager
