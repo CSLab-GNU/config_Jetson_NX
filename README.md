@@ -36,5 +36,5 @@ These are pins 9 [GND] and 10 [FC REC] of the Button Header [J14].
 
 <img src = "https://user-images.githubusercontent.com/17681187/216935503-9fc8cc92-3b7f-41fb-9de8-e6671971ba34.png" width = "400" height = "400">
 
-By this step, 
+By this step, ubuntu 20.04 install 
 
