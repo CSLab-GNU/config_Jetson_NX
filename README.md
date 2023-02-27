@@ -78,5 +78,13 @@ If your SSD has several partitions, merge to one those and format disk.
 <img src = "https://user-images.githubusercontent.com/17681187/221497402-a9cc2235-8408-4c7a-a5dd-75fea97c1060.png" width = "400" height = "300">  
 Then, create partition clicking "+" button as Ext4 type.  
 
+'''bash
+git clone https://github.com/jetsonhacks/rootOnNVMe.
+cd rootOnNVMe
+./copy-rootfs-ssd.sh
+./setup-service.sh
+sudo reboot now
+'''
+
 ## Install JetPack on Xavier
 <img src = "https://user-images.githubusercontent.com/17681187/220870706-96d9f9cb-3b0a-4c6a-af20-284503053f21.png" width = "700" height = "400">
