@@ -58,14 +58,16 @@ These are pins 9 [GND] and 10 [FC REC] of the Button Header [J14].
 
 Select EMMC as storage device.
 
-<img src = "https://user-images.githubusercontent.com/17681187/216935503-9fc8cc92-3b7f-41fb-9de8-e6671971ba34.png" width = "400" height = "400">
+<img src = "https://user-images.githubusercontent.com/17681187/216935503-9fc8cc92-3b7f-41fb-9de8-e6671971ba34.png" width = "400" height = "400">  
+Connect monitor, keyboard, mouse to Xavier.  
+You can check the succeeding of booting of Xavier.  
 
 By this step, ubuntu 20.04 will be installed at SD card built in your Xavier.  
 This is the step only for flashing Xavier. Even if you did flash your Xavier, JetPack is not installed at Xavier.  
 Because EMMC inside Jetson Xavier NX has 16GB of storage space that only can installed ubuntu, you should configure root disk to external SSD.  
 
 ## Change root disk    
-Insert ,SSD card at Xavier
+  
 <img src = "https://user-images.githubusercontent.com/17681187/221489843-ab66b96a-2672-48e4-b3fd-9a92d29d9ea0.png" width = "300" height = "400">
 
 ## Install JetPack on Xavier
