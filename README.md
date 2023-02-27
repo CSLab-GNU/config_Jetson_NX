@@ -68,13 +68,14 @@ This is the step only for flashing Xavier. Even if you did flash your Xavier, Je
 Because EMMC inside Jetson Xavier NX has 16GB of storage space that only can installed ubuntu, you should configure root disk to external SSD.  
 
 ## Change root disk    
+You can reference https://github.com/jetsonhacks/rootOnNVMe.
 <img src = "https://user-images.githubusercontent.com/17681187/221489843-ab66b96a-2672-48e4-b3fd-9a92d29d9ea0.png" width = "300" height = "400">
 
 From now, host PC will not used.  
 Using connected keyboard and mouse at Xavier, enter the setting "disks".  
-If your SSD has several partitions, merge to one those.  
-And format disk   
-<img src = "https://user-images.githubusercontent.com/17681187/221497402-a9cc2235-8408-4c7a-a5dd-75fea97c1060.png" width = "400" height = "300">
+If your SSD has several partitions, merge to one those and format disk.     
+<img src = "https://user-images.githubusercontent.com/17681187/221497402-a9cc2235-8408-4c7a-a5dd-75fea97c1060.png" width = "400" height = "300">  
+Then, create partition clicking "+" button as Ext4 type.  
 
 ## Install JetPack on Xavier
 <img src = "https://user-images.githubusercontent.com/17681187/220870706-96d9f9cb-3b0a-4c6a-af20-284503053f21.png" width = "700" height = "400">
