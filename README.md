@@ -74,7 +74,7 @@ From now, host PC will not used.
 Using connected keyboard and mouse at Xavier, enter the setting "disks".  
 If your SSD has several partitions, merge to one those.  
 And format disk   
-< img src = "https://user-images.githubusercontent.com/17681187/221497402-a9cc2235-8408-4c7a-a5dd-75fea97c1060.png" width = "300" height = "400">
+<img src = "https://user-images.githubusercontent.com/17681187/221497402-a9cc2235-8408-4c7a-a5dd-75fea97c1060.png" width = "300" height = "400">
 
 ## Install JetPack on Xavier
 <img src = "https://user-images.githubusercontent.com/17681187/220870706-96d9f9cb-3b0a-4c6a-af20-284503053f21.png" width = "700" height = "400">
