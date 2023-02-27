@@ -1,5 +1,5 @@
 # config_Jetson_NX (without SD Card image)
-This is the repository for configuring the Jetson Xavier NX by SDK manager.
+This is the repository for configuring the Jetson Xavier NX by SDK manager and SSD card.
 
 This configuration do not require external SD card.
 
@@ -7,6 +7,8 @@ If you have a SD card that has 16GB minimum, see Configure F1TENTH System at htt
 
 ## Required Equipments
 -Jetson Xarvier NX  
+
+-SSD card
 
 -Ubuntu 20.04 host PC  
 
@@ -63,7 +65,7 @@ By this step, ubuntu 20.04 will be installed at SD card built in your Xavier.
 <img src = "https://user-images.githubusercontent.com/17681187/220866315-a94579b2-aea8-42db-ba5e-2c91e3b20c80.png" width = "300" height = "400">
 
 This is the step only for flashing Xavier. Even if you did flash your Xavier, JetPack is not installed at Xavier.
-Because EMMC inside Jetson Xavier NX has only 16GB of storage space that can installed ubuntu, you should configure root disk
+Because EMMC inside Jetson Xavier NX has 16GB of storage space that only can installed ubuntu, you should configure root disk to external SSD.
 
 ## Install JetPack on Xavier
 <img src = "https://user-images.githubusercontent.com/17681187/220870706-96d9f9cb-3b0a-4c6a-af20-284503053f21.png" width = "700" height = "400">
