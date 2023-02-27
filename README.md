@@ -91,5 +91,8 @@ cd rootOnNVMe
 sudo reboot now
 ```
 
-## Install JetPack on Xavier
-
+## Install JetPack on Xavier  
+For install JetPack, using this command.
+```bash
+sudo apt install nvidia-jetpack
+```
