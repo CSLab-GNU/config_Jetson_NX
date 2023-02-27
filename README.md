@@ -60,7 +60,7 @@ Select EMMC as storage device.
 
 <img src = "https://user-images.githubusercontent.com/17681187/216935503-9fc8cc92-3b7f-41fb-9de8-e6671971ba34.png" width = "400" height = "400">  
 Connect monitor, keyboard, mouse to Xavier.  
-You can check the succeeding of booting of Xavier.  
+You can check the succeeding of booting of Xavier.    
 
 By this step, ubuntu 20.04 will be installed at SD card built in your Xavier.  
 This is the step only for flashing Xavier. Even if you did flash your Xavier, JetPack is not installed at Xavier.  
