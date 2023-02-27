@@ -94,5 +94,6 @@ sudo reboot now
 ## Install JetPack on Xavier  
 For install JetPack, using this command.
 ```bash
+sudo apt update
 sudo apt install nvidia-jetpack
 ```
