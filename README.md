@@ -3,7 +3,7 @@ This is the repository for configuring the Jetson Xavier NX by SDK manager and S
 
 This configuration do not require external SD card.
 
-If you have a SD card that has 16GB minimum, see Configure F1TENTH System at https://f1tenth.org/build.html.
+If you can use a SD card that has 16GB minimum, see Configure F1TENTH System at https://f1tenth.org/build.html.
 
 ## Required Equipments
 -Jetson Xarvier NX  
