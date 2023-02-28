@@ -65,7 +65,7 @@ You can check the succeeding of booting of Xavier.
 
 By this step, ubuntu 20.04 will be installed at SD card built in your Xavier.  
 This is the step only for flashing Xavier. Even if you did flash your Xavier, JetPack is not installed in Xavier.  
-Because EMMC inside Jetson Xavier NX has 16GB of storage space that only can installed ubuntu, you should configure root disk to external SSD.  
+Because EMMC inside Jetson Xavier NX has 16GB of storage space that is not enough to install all pakages, you should configure root disk to external SSD.  
 
 <img src = "https://user-images.githubusercontent.com/17681187/220870706-96d9f9cb-3b0a-4c6a-af20-284503053f21.png" width = "700" height = "400">  
 
