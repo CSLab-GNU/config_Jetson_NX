@@ -75,7 +75,7 @@ From now, host PC will not be used.
 You can reference https://github.com/jetsonhacks/rootOnNVMe.  
 
  
-Using connected keyboard and mouse at Xavier, enter the setting "disks".  
+Using keyboard and mouse connected to Xavier, enter the setting "disks".  
 If your SSD has several partitions, merge to one those and format disk.     
 <img src = "https://user-images.githubusercontent.com/17681187/221497402-a9cc2235-8408-4c7a-a5dd-75fea97c1060.png" width = "400" height = "300">  
 Then, create partition clicking "+" button as Ext4 type.   
