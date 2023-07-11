@@ -71,7 +71,7 @@ Because EMMC inside Jetson Xavier NX has 16GB of storage space that is not enoug
 
 
 ## Change root disk    
-From now, host PC will not used.   
+From now, host PC will not be used.   
 You can reference https://github.com/jetsonhacks/rootOnNVMe.  
 
  
